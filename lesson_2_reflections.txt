@@ -9,3 +9,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	When I want to keep main branch workable and in parallel work on some experiments, or start e.g. localization into different language.
+
+How do the diagrams help you visualize the branch structure?
+	??? Diagrams are usually for better visualization of anything, so also for the branch structure ...
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The result is one branch with all the commits from both branches included. 
+	To vizualize, hence better understand. 
