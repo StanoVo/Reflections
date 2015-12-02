@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  - either working on a team project
+  - or working from several computers
+  - or if I consider Github as a safer place for storing project files than my own computer 
