@@ -2,3 +2,6 @@ When would you want to use a remote repository rather than keeping all your work
   - either working on a team project
   - or working from several computers
   - or if I consider Github as a safer place for storing project files than my own computer 
+  
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  Maybe in case of team projects I wouldn't want to update my local files anytime with others' code, hence face permanent instability.
