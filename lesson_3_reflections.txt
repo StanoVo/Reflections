@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Using file server with master project stored there, with local copies and manual merging (using file content comparison tool). At the beginning it might be simplier, however in a project with more team members and with a software already used by customers, usage of some sort of source code versioning management system is unevitable.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Making changes in master is more straightforward, making changes in a separate branch seems to have many steps (more place for mistakes). Separate branches I would use mainly if I need one branch 100% running all the time (in productive use). Using separate branch allows us safer collaborative way of introducing changes into the master code, however using it needs a little more praxis. 
+ 
